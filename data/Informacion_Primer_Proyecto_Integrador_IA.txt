@@ -1,0 +1,230 @@
+============================================================
+PRIMER PROYECTO INTEGRADOR - TIPO CASO DE ESTUDIO
+============================================================
+
+ASIGNATURA
+IA 2026-2
+
+DOCENTE
+Manuel Alejandro Ospina Alarcón
+
+FECHA DE PUBLICACIÓN
+31 de agosto de 2026
+
+FECHA LÍMITE DE ENTREGA
+15 de septiembre de 2026 - 1159 p. m.
+
+VALOR
+10 puntos - 10% de la asignatura
+
+
+============================================================
+1. OBJETIVO DE LA ACTIVIDAD
+============================================================
+
+El presente taller práctico evaluativo tiene como propósito medir
+las habilidades conceptuales, matemáticas y de programación en el
+marco del razonamiento bajo incertidumbre (Softcomputing) y los
+Sistemas Basados en Conocimiento (SBC).
+
+Los dos casos planteados representan problemas reales de ingeniería
+que requieren un análisis analítico riguroso y una implementación de
+software flexible.
+
+
+============================================================
+2. MODALIDAD DE TRABAJO
+============================================================
+
+- El taller debe desarrollarse en parejas.
+- El grupo debe tener máximo 2 integrantes.
+
+
+============================================================
+3. DISTRIBUCIÓN DE LA EVALUACIÓN
+============================================================
+
+3.1. MEMORIAS DE CÁLCULO ESCRITAS (TEÓRICO)
+PORCENTAJE 50%
+
+Se evaluará
+
+- Desarrollo matemático paso a paso.
+- Justificación analítica de cada fórmula de membresía.
+- Desfusificación mediante centroide yo máximos.
+- Cálculo completo de la propagación de factores de certeza.
+
+
+3.2. IMPLEMENTACIÓN COMPUTACIONAL
+PORCENTAJE 35%
+
+Se evaluará
+
+- Código fuente funcional.
+- Código estructurado.
+- Código modular.
+- Código parametrizable.
+- Implementación de ambos casos.
+- Capacidad de evaluar cualquier valor nítido ingresado
+  durante la ejecución de manera interactiva.
+
+LENGUAJES PERMITIDOS
+
+- Python
+- MATLAB
+
+
+3.3. CALIDAD DEL REPORTE Y PRESENTACIÓN
+PORCENTAJE 15%
+
+Se evaluará
+
+- Redacción técnica profesional.
+- Orden.
+- Claridad metodológica.
+- Cumplimiento de las pautas de presentación.
+
+
+============================================================
+4. ENTREGABLES
+============================================================
+
+4.1. MEMORIAS DE CÁLCULO
+
+Las memorias de cálculo teóricas deben entregarse en un documento
+digital ordenado o en formato PDF.
+
+El documento debe presentar de manera clara y paso a paso los
+procedimientos matemáticos realizados para ambos casos.
+
+
+4.2. SOFTWARE
+
+El software debe subirse a Google Classroom en un archivo comprimido
+con extensión .zip.
+
+El archivo debe contener
+
+- Scripts correspondientes a los dos casos.
+- Archivos necesarios para ejecutar el programa.
+- Un README con un instructivo simple de ejecución.
+
+
+============================================================
+5. CARACTERÍSTICAS DEL SOFTWARE
+============================================================
+
+El programa debe
+
+- Resolver los dos casos planteados.
+- Ser funcional.
+- Estar estructurado.
+- Ser modular.
+- Ser parametrizable.
+- Permitir ingresar valores nítidos durante la ejecución.
+- Poder evaluar diferentes valores ingresados por el usuario de
+  manera interactiva.
+
+No se debe limitar el programa únicamente a los valores utilizados
+en los ejemplos o cálculos manuales.
+
+
+============================================================
+6. ESTRUCTURA SUGERIDA DEL ZIP
+============================================================
+
+Proyecto_Integrador.zip
+
+    caso_1
+        archivos_del_caso_1
+
+    caso_2
+        archivos_del_caso_2
+
+    README.txt
+
+
+============================================================
+7. README
+============================================================
+
+El README debe incluir un instructivo sencillo que explique
+
+1. Requisitos necesarios para ejecutar el programa.
+2. Cómo ejecutar el programa.
+3. Qué archivo o script debe ejecutarse.
+4. Cómo ingresar los datos.
+5. Qué resultados genera el programa.
+
+
+============================================================
+8. ADVERTENCIA SOBRE PLAGIO
+============================================================
+
+Se penalizará el plagio de código o la copia de soluciones con una
+nota de 0.0, sin derecho a recuperación.
+
+El código y las soluciones presentadas deben ser desarrollados
+por los integrantes del grupo.
+
+
+============================================================
+9. CHECKLIST DE ENTREGA
+============================================================
+
+[ ] Formar pareja de máximo 2 integrantes.
+
+[ ] Analizar los dos casos de estudio.
+
+[ ] Resolver matemáticamente el Caso 1.
+
+[ ] Resolver matemáticamente el Caso 2.
+
+[ ] Desarrollar las funciones de membresía requeridas.
+
+[ ] Realizar los cálculos de desfusificación requeridos.
+
+[ ] Realizar los cálculos de propagación de factores de certeza.
+
+[ ] Implementar ambos casos en Python o MATLAB.
+
+[ ] Hacer que el programa permita ingresar valores nítidos
+    durante la ejecución.
+
+[ ] Probar el programa con diferentes valores.
+
+[ ] Elaborar el README.
+
+[ ] Organizar las memorias de cálculo en un documento digital
+    o PDF.
+
+[ ] Revisar la redacción, orden y presentación.
+
+[ ] Comprimir el software en formato .zip.
+
+[ ] Subir los archivos a Google Classroom.
+
+[ ] Entregar antes del 15 de septiembre de 2026 a las 1159 p. m.
+
+
+============================================================
+10. INFORMACIÓN PENDIENTE
+============================================================
+
+En la información disponible del Classroom no aparecen los dos
+casos de estudio mencionados en las instrucciones.
+
+Para poder desarrollar el proyecto completamente se necesita
+la información correspondiente a
+
+- Caso de estudio 1.
+- Caso de estudio 2.
+- Datos proporcionados para cada caso.
+- Preguntas o resultados solicitados para cada caso.
+- Cualquier fórmula, condición o restricción específica indicada
+  en el enunciado.
+
+
+============================================================
+FIN DE LA INFORMACIÓN
+============================================================
