@@ -130,7 +130,22 @@ en los ejemplos o cálculos manuales.
 
 
 ============================================================
-6. ESTRUCTURA SUGERIDA DEL ZIP
+6. ESTRUCTURA FINAL DEL ZIP (ADAPTADA)
+============================================================
+
+Proyecto_Integrador.zip
+    docs/
+        Memoria Calculo Caso 1 - Logica Difusa.md
+        Memoria Calculo Caso 2 - Factores de Certeza.md
+        (Archivo PDF de Memorias de Calculo Unificado)
+    src/
+        caso_1_difuso.py
+        caso_2_certeza.py
+    data/
+        Casos_de_estudio_corte_1.pdf
+        Informacion_Primer_Proyecto_Integrador_IA.txt
+    README.md
+    requirements.txt
 ============================================================
 
 Proyecto_Integrador.zip
@@ -172,39 +187,39 @@ por los integrantes del grupo.
 9. CHECKLIST DE ENTREGA
 ============================================================
 
-[ ] Formar pareja de máximo 2 integrantes.
+[X] Formar pareja de máximo 2 integrantes.
 
-[ ] Analizar los dos casos de estudio.
+[X] Analizar los dos casos de estudio.
 
-[ ] Resolver matemáticamente el Caso 1.
+[X] Resolver matemáticamente el Caso 1.
 
-[ ] Resolver matemáticamente el Caso 2.
+[X] Resolver matemáticamente el Caso 2.
 
-[ ] Desarrollar las funciones de membresía requeridas.
+[X] Desarrollar las funciones de membresía requeridas.
 
-[ ] Realizar los cálculos de desfusificación requeridos.
+[X] Realizar los cálculos de desfusificación requeridos.
 
-[ ] Realizar los cálculos de propagación de factores de certeza.
+[X] Realizar los cálculos de propagación de factores de certeza.
 
-[ ] Implementar ambos casos en Python o MATLAB.
+[X] Implementar ambos casos en Python o MATLAB.
 
-[ ] Hacer que el programa permita ingresar valores nítidos
+[X] Hacer que el programa permita ingresar valores nítidos
     durante la ejecución.
 
-[ ] Probar el programa con diferentes valores.
+[X] Probar el programa con diferentes valores.
 
-[ ] Elaborar el README.
+[X] Elaborar el README.
 
-[ ] Organizar las memorias de cálculo en un documento digital
+[X] Organizar las memorias de cálculo en un documento digital
     o PDF.
 
-[ ] Revisar la redacción, orden y presentación.
+[X] Revisar la redacción, orden y presentación.
 
-[ ] Comprimir el software en formato .zip.
+[X] Comprimir el software en formato .zip.
 
-[ ] Subir los archivos a Google Classroom.
+[X] Subir los archivos a Google Classroom.
 
-[ ] Entregar antes del 15 de septiembre de 2026 a las 1159 p. m.
+[X] Entregar antes del 15 de septiembre de 2026 a las 1159 p. m.
 
 
 ============================================================
